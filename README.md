@@ -1,21 +1,33 @@
-# Terms of Service
+# Privacy Policy
 
-**Effective Date:** [Insert Date]
+This Privacy Policy outlines how Horizon ("we," "us," "our") collects, uses, and discloses information obtained from users ("you," "your") of our service. By using our service, you agree to the collection and use of your information as detailed in this Privacy Policy.
 
-By accessing or using our service ("the bot", "the service", "Horizon"), you agree to the following Terms of Service ("ToS", "Terms"). If you do not agree with any part of these Terms, you must discontinue your use of our services immediately. For legal inquiries, please contact us through our support server.
+## Information We Collect
 
-## 1. Access to the Service
+We collect the following data solely for the purpose of ensuring the optimal functionality and performance of our service:
 
-Horizon reserves the right to suspend or revoke access to our services at our discretion, with or without prior notice. This may occur for various reasons, including but not limited to violations of these Terms. The service is not intended for individuals under the age of 13. Users must not engage in any activities that are unlawful, disruptive, or damaging to the service. Additionally, impersonating Horizon staff or disseminating false information about the service or its personnel is prohibited.
+- **Configuration Data:** Includes role IDs, channel IDs, selected configuration options, and module settings.
+- **User Data:** Comprises usernames, user IDs, and avatars.
+- **Guild Data:** Includes guild ID, server name, guild configuration details, and server owner information.
+- **Command Usage:** Tracks when commands were used, who used them, and which commands were executed.
 
-## 2. Limitation of Liability
+## How We Use Your Information
 
-We are committed to delivering a secure and reliable service; however, we cannot guarantee uninterrupted or error-free operation. Our liability is limited to the fullest extent allowed by law. We will not be responsible for any loss of profits, revenue, data, or other damages, even if we were advised of the potential for such losses.
+The information we collect is used for the following purposes:
 
-## 3. Enforcement
+- To operate, maintain, and enhance our service.
+- To customize user experiences and interactions within the service.
+- To analyze usage trends and patterns to improve service functionality and performance.
+- To communicate with users regarding updates, announcements, and other service-related information.
 
-We have the authority to enforce these Terms by taking appropriate measures, including suspending or terminating access to the service if a violation is identified. This action will be at our sole discretion.
+## How We Disclose Your Information
 
-## 4. Changes to Terms
+We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except under the following conditions:
 
-We may update these Terms at any time, with or without prior notice. It is your responsibility to review these Terms periodically to stay informed of any changes. Continued use of the service constitutes acceptance of the revised Terms.
+- **Trusted Service Providers:** We may share your information with third-party service providers who assist in the operation of our service, business activities, or user support.
+- **Legal Requirements:** We may disclose your information in response to lawful requests from public authorities, including for national security or law enforcement purposes.
+- **Protection and Safety:** We may disclose your information if necessary to investigate, prevent, or respond to illegal activities, suspected fraud, or potential threats to the safety of any individual.
+
+## Data Retention
+
+We retain the information we collect for as long as necessary to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.
